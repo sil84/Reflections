@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I don't have to rely only on my memory!
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can see all the changes/improvements/fixes made to the code trough all the life of the app.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    If you know your code is not good and you're working on it, it's better to wait and commit it only when your code at least compile.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    When you develop, your app is usually made by many files and it needs all of that in order to work.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If a change should ever break something, I can always revert my changes back by using a previous version and even understand which change broke my app.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Handle all my code in a repository!
+
+What happens when you initialize a repository? Why do you need to do it?
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
